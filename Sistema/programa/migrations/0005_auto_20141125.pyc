@@ -1,0 +1,6 @@
+ó
+‡³sTc           @  sC   d  d l  m Z d  d l m Z m Z d e j f d „  ƒ  YZ d S(   iÿÿÿÿ(   t   unicode_literals(   t   modelst
+   migrationst	   Migrationc           B  s5   e  Z d g Z e j d d d e d g ƒ ƒ g Z RS(	   u   programau   0004_auto_20141125t   nameu	   validart   unique_togetheru   Nomeu	   Descricao(   u   programau   0004_auto_20141125(   u   Nomeu	   Descricao(   t   __name__t
+   __module__t   dependenciesR   t   AlterUniqueTogethert   sett
+   operations(    (    (    sL   /home/aluno/Prova_V3/Sistema/programa/migrations/0005_auto_20141125.pyR      s   		N(   t
+   __future__R    t	   django.dbR   R   R   (    (    (    sL   /home/aluno/Prova_V3/Sistema/programa/migrations/0005_auto_20141125.pyt   <module>   s   

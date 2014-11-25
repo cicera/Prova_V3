@@ -1,0 +1,2 @@
+ó
+éŸsTc           @   sT   d  d l  m Z m Z m Z d  d l m Z e d e d e e j j ƒ ƒ ƒ Z d S(   iÿÿÿÿ(   t   patternst   includet   url(   t   admint    s   ^admin/N(	   t   django.conf.urlsR    R   R   t   django.contribR   t   sitet   urlst   urlpatterns(    (    (    s/   /home/aluno/Prova_V3/Sistema/programa/urls.pyt   <module>   s   

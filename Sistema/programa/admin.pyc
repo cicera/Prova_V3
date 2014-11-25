@@ -1,0 +1,11 @@
+ó
+¤§sTc           @   s  d  d l  m Z d  d l m Z d  d l m Z d  d l m Z d  d l m Z d e j f d „  ƒ  YZ d e j f d	 „  ƒ  YZ	 d
+ e j f d „  ƒ  YZ
+ d e j f d „  ƒ  YZ e j j e e ƒ e j j e e	 ƒ e j j e e
+ ƒ e j j e e ƒ d S(   iÿÿÿÿ(   t   admin(   t   Pessoa(   t   Acesso(   t   Lugar(   t	   validacaot   PessoaAdminc           B   s)   e  Z d  g Z d  g Z d  g Z e Z RS(   t   Nome(   t   __name__t
+   __module__t   list_displayt   list_filtert   search_fieldst   Truet   save_as(    (    (    s/   /home/aluno/Prova_V3/Sistema/programa/admin.pyR   	   s   			t   SistemaAdminc           B   s)   e  Z d  g Z d  g Z d  g Z e Z RS(   t	   Descricao(   R   R   R	   R
+   R   R   R   (    (    (    s/   /home/aluno/Prova_V3/Sistema/programa/admin.pyR      s   			t
+   LocalAdminc           B   s)   e  Z d  g Z d  g Z d  g Z e Z RS(   R   (   R   R   R	   R
+   R   R   R   (    (    (    s/   /home/aluno/Prova_V3/Sistema/programa/admin.pyR      s   			t   validarAdminc           B   s)   e  Z d  g Z d  g Z d  g Z e Z RS(   R   (   R   R   R	   R
+   R   R   R   (    (    (    s/   /home/aluno/ProvaFudida/Sistema/programa/admin.pyR      s   			N(   t   django.contribR    t   modelsR   R   R   R   t
+   ModelAdminR   R   R   R   t   sitet   register(    (    (    s/   /home/aluno/Prova_V3/Sistema/programa/admin.pyt   <module>   s   

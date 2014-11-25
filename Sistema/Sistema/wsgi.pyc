@@ -1,0 +1,10 @@
+ó
+éŸsTc           @   sB   d  Z  d d l Z e j j d d ƒ d d l m Z e ƒ  Z d S(   s×   
+WSGI config for Acessos project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/1.7/howto/deployment/wsgi/
+iÿÿÿÿNt   DJANGO_SETTINGS_MODULEs   Acessos.settings(   t   get_wsgi_application(   t   __doc__t   ost   environt
+   setdefaultt   django.core.wsgiR   t   application(    (    (    s/   /home/aluno/Prova_V3/Sistema/programa/wsgi.pyt   <module>   s   

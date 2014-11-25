@@ -1,0 +1,16 @@
+ó
+é¤sTc           @  sC   d  d l  m Z d  d l m Z m Z d e j f d „  ƒ  YZ d S(   iÿÿÿÿ(   t   unicode_literals(   t   modelst
+   migrationst	   Migrationc           B  så  e  Z g  Z e j d  d d d e j d d d e d e d e ƒ f d	 e j	 d
+ d d e d d ƒ f g d i  d e j
+ f ƒ e j d  d d d e j d d d e d e d e ƒ f d e j	 d
+ d d e d d ƒ f d	 e j d d d e d d ƒ f g d i  d e j
+ f ƒ e j d  d d d e j d d d e d e d e ƒ f d e j	 d
+ d d e d d ƒ f d e j	 d
+ d d e d d ƒ f d e j	 d
+ d d e d d ƒ f d	 e j d d d d d e ƒ f g d i  d e j
+ f ƒ g Z RS(   t   nameu   Sistemat   fieldsu   idt   verbose_nameu   IDt	   serializet   auto_createdt   primary_keyu	   Descricaot
+   max_lengthid   t   nulls   Tipo de Programat   optionst   basesu   Localu   Nomet   Lugart   tou   programa.Sistema   Pessoat   Nomeu   Enderecos	   EndereÃ§ou   Telefonei   t   Telefone(   t   __name__t
+   __module__t   dependenciesR   t   CreateModelR   t	   AutoFieldt   Falset   Truet	   CharFieldt   Modelt   ManyToManyFieldt
+   ForeignKeyt
+   operations(    (    (    sA   /home/aluno/Prova_V3/Sistema/programa/migrations/0001_initial.pyR      s.   	''	'!'	'!!!'N(   t
+   __future__R    t	   django.dbR   R   R   (    (    (    sA   /home/aluno/Prova_V3/Sistema/programa/migrations/0001_initial.pyt   <module>   s   

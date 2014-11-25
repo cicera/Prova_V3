@@ -1,0 +1,9 @@
+ó
+V²sTc           @  sC   d  d l  m Z d  d l m Z m Z d e j f d „  ƒ  YZ d S(   iÿÿÿÿ(   t   unicode_literals(   t   modelst
+   migrationst	   Migrationc        
+   B  sq   e  Z d
+ g Z e j d d d d d e j d e ƒ d e ƒ e j d d d d	 d e j d e ƒ d e ƒ g Z RS(   u   programau   0003_auto_20141125t
+   model_nameu	   validart   nameu   Entradat   fieldt   nullt   preserve_defaultu   Saida(   u   programau   0003_auto_20141125(	   t   __name__t
+   __module__t   dependenciesR   t   AddFieldR   t	   TimeFieldt   Truet
+   operations(    (    (    sL   /home/aluno/Prova_V3/Sistema/programa/migrations/0004_auto_20141125.pyR      s   			N(   t
+   __future__R    t	   django.dbR   R   R   (    (    (    sL   /home/aluno/Prova_V3/Sistema/programa/migrations/0004_auto_20141125.pyt   <module>   s   

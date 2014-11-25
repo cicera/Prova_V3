@@ -1,0 +1,9 @@
+ó
+]§sTc           @  sC   d  d l  m Z d  d l m Z m Z d e j f d „  ƒ  YZ d S(   iÿÿÿÿ(   t   unicode_literals(   t   modelst
+   migrationst	   Migrationc           B  s§   e  Z d g Z e j d d d d e j d d d e d	 e d
+ e ƒ f d e j	 d d d d d e ƒ f d e j	 d d d d d e ƒ f g d i  d e j
+ f ƒ g Z RS(   u   programau   0001_initialt   nameu	   validart   fieldsu   idt   verbose_nameu   IDt	   serializet   auto_createdt   primary_keyu   Localt   Localt   tou   sistema.Lugart   nullu   Nomet   Pessoau   sistema.Pessoat   optionst   bases(   u   programasu   0001_initial(   t   __name__t
+   __module__t   dependenciesR   t   CreateModelR   t	   AutoFieldt   Falset   Truet
+   ForeignKeyt   Modelt
+   operations(    (    (    sC   /home/aluno/Prova_V3/Sistema/programa/migrations/0002_validar.pyR      s   		'!'N(   t
+   __future__R    t	   django.dbR   R   R   (    (    (    sC   /home/aluno/Prova_V3/Sistema/programa/migrations/0002_validar.pyt   <module>   s   
